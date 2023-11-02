@@ -1,5 +1,7 @@
-.main {
-    margin-top: 100px;    
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo-img {
